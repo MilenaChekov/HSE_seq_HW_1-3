@@ -6,6 +6,7 @@
 результаты анализа multiqc
 
 
+
 ДЗ 2, сслыка на гитхаб - https://colab.research.google.com/drive/1FccKS6JuA5soXx2bLgfknbX47WoZkg5m#scrollTo=hP7lY_nTL1iA
 (часть с R приложена в папке src)
 
