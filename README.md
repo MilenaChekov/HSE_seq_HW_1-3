@@ -14,6 +14,8 @@
 
 ![image](https://user-images.githubusercontent.com/60537367/199970885-a8d4ab8c-8369-48bc-a0d3-3708c68ce752.png)
 
+можно заметить, что в целом получились высокие значения корреляции, особенно по возрасту, но и по 
+
 ![image](https://user-images.githubusercontent.com/60537367/199929395-60e8cb54-122f-4124-9c51-9346e6d3037e.png)
 
 
