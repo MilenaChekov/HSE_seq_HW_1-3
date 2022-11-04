@@ -12,10 +12,7 @@
 
 <img width="1375" alt="Снимок экрана 2022-11-04 в 11 39 47" src="https://user-images.githubusercontent.com/60537367/199929503-13b9466f-13db-4dff-8dd7-01adbc176b8a.png">
 
-![image](https://user-images.githubusercontent.com/60537367/199969645-4ea4ba7f-b628-4a2b-a0c1-8f4c336a1605.png)
-
-
-![image](https://user-images.githubusercontent.com/60537367/199929329-c3e0c699-3ca3-4699-92d4-cfbf75239e23.png)
+![image](https://user-images.githubusercontent.com/60537367/199970885-a8d4ab8c-8369-48bc-a0d3-3708c68ce752.png)
 
 ![image](https://user-images.githubusercontent.com/60537367/199929395-60e8cb54-122f-4124-9c51-9346e6d3037e.png)
 
