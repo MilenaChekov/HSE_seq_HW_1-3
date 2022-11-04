@@ -20,3 +20,17 @@
 
 
 ДЗ 3, код в папке src
+
+![image](https://user-images.githubusercontent.com/60537367/199975608-6014a114-d19c-4bfb-8674-d03f67afb50b.png)
+
+![image](https://user-images.githubusercontent.com/60537367/199975905-5ab61550-8210-428d-a7ea-09b43a4eb6b8.png)
+
+![image](https://user-images.githubusercontent.com/60537367/199975927-66e938f9-8f5f-48e7-9554-27093ac4ecc6.png)
+
+![image](https://user-images.githubusercontent.com/60537367/199975951-bcd4ec0d-0536-4269-af45-5884422b7077.png)
+
+![image](https://user-images.githubusercontent.com/60537367/199975972-7ccdd216-5dca-47eb-8d3f-f45ce94850a9.png)
+
+![image](https://user-images.githubusercontent.com/60537367/199975988-61ecc8eb-894e-4728-8d3c-e72c468a4ea3.png)
+
+![image](https://user-images.githubusercontent.com/60537367/199976008-192bfbba-9b39-46dd-99f8-28ce64d0fb23.png)
