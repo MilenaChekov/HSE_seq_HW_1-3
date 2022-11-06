@@ -5,7 +5,7 @@ df <- subset(df, select = -c(GeneID,Length) )
 d = as.matrix(df)
 
        
-m = data.frame(tissue=substr(colnames(d),1,1),age=as.numeric(sub('.s', '', substr(colnames(d),2,5))))
+m = data.frame(tissue=substr(colnames(d),1,1),age=as.numeric(sub('.b', '', substr(colnames(d),2,5))))
 m$col=ifelse(m$tissue=='B','orange','blue')
 rownames(m) = colnames(d)
 m
@@ -45,7 +45,7 @@ qv[order(qv[,3])[1:10],]
 cpm.s = cpm[apply(qv,1,min)<0.05,] # take significant genes
 cpm.s = t(scale(t(cpm.s))) # z-score
 
-hcl = hclust(as.dist(1-cor(t(cpm.s)))) # иерархическая кластеризация
+hcl = hclust(as.dist(1-cor(t(cpm.s), method='spearman'))) # иерархическая кластеризация
 
 plot(hcl)
 
