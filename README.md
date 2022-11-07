@@ -26,17 +26,17 @@
 ![image](https://user-images.githubusercontent.com/60537367/199975608-6014a114-d19c-4bfb-8674-d03f67afb50b.png)
 чем выше экспрессия, тем ниже вариация
 
-![image](https://user-images.githubusercontent.com/60537367/200163929-5752ba7e-df0a-45ba-a8ab-df629a9301b3.png)
+![image](https://user-images.githubusercontent.com/60537367/200339534-8d158d13-1641-41cb-a5c7-eb8f082dbeaf.png)
 
-![image](https://user-images.githubusercontent.com/60537367/200163939-5a106992-f90e-463a-9e89-fc322dc23296.png)
+![image](https://user-images.githubusercontent.com/60537367/200339587-c56ad03c-dbd0-4067-8170-2fce30c7885c.png)
 
-![image](https://user-images.githubusercontent.com/60537367/200163953-20092c0d-85c2-49aa-a127-8240ce190af4.png)
+![image](https://user-images.githubusercontent.com/60537367/200339634-0ea67ead-9ada-4253-98b4-f4b54ea05dc6.png)
 
-![image](https://user-images.githubusercontent.com/60537367/200163964-efee5fd0-3d4e-4108-8d32-27d21dfe978a.png)
+![image](https://user-images.githubusercontent.com/60537367/200339667-487135c0-b601-49ce-9aec-7fddf66683f9.png)
 
-![image](https://user-images.githubusercontent.com/60537367/200163972-18c012ca-e7f2-4d1a-8681-77246bb649a9.png)
+![image](https://user-images.githubusercontent.com/60537367/200339689-1158893a-b9f5-4819-8fbf-9aae41afe288.png)
 
-![image](https://user-images.githubusercontent.com/60537367/200163978-5358e2be-1e00-4a0e-821e-f7bdce63586e.png)
+![image](https://user-images.githubusercontent.com/60537367/200339711-38318087-517c-45b4-8cf9-8d620f0ec025.png)
 
 
 6 кластеров, показывающих разный паттерн экспрессии с возрастом (понижение или повышение экспрессии с возрастом, более сложные траектории)
