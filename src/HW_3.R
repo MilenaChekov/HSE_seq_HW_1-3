@@ -31,18 +31,29 @@ edger = estimateDisp(edger,design)
 plotBCV(edger)
 glm = glmFit(edger,design)
 
+
+lfc = cbind(tissue   = glmLRT(glm,2)$table$logFC, 
+           age   = glmLRT(glm,3)$table$logFC,
+           tissue_age   = glmLRT(glm,4)$table$logFC)
+rownames(lfc) = rownames(d)
+lfc
+
 pv = cbind(tissue   = glmLRT(glm,2)$table$PValue, 
            age   = glmLRT(glm,3)$table$PValue,
            tissue_age   = glmLRT(glm,4)$table$PValue)
 rownames(pv) = rownames(d)
+pv
 
 qv = apply(pv,2,p.adjust,m='BH') # сделаем поправку на множественное тестирование
 apply(qv < 0.05,2,sum) # количество генов значимых для каждого фактора
+apply(abs(lfc)>1,2,sum)
 
 cpm = cpm(edger)
 qv[order(qv[,3])[1:10],]
+qv
 
-cpm.s = cpm[apply(qv,1,min)<0.05,] # take significant genes
+cpm.s = cpm[(apply(abs(lfc),1,max)>1)&(apply(qv,1,min)<0.05),]
+#cpm.s = cpm.s[apply(qv,1,min)<0.05,] # take significant genes
 cpm.s = t(scale(t(cpm.s))) # z-score
 
 hcl = hclust(as.dist(1-cor(t(cpm.s), method='spearman'))) # иерархическая кластеризация
